@@ -21,3 +21,20 @@ This project demonstrates building a fully interactive desktop application using
 
 ## Notes
 Some systems may display a warning when downloading the executable, as it is a locally built Python application.
+
+## Game Images
+
+### Main Game Interface
+![Main UI](images/ship_near_land.png)
+
+### Anne Bonny Encounter
+![Anne Bonny](images/anne_bonny.png)
+
+### Squawkles Commentary
+![Secret Island](images/squawkles.png)
+
+### Secret Island Discovery
+![Secret Island](images/treasure.png)
+
+### End Voyage
+![End Screen](images/ship_at_dock.png)
