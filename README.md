@@ -30,16 +30,16 @@ Some systems may display a warning when downloading the executable, as it is a l
 ## Game Images
 
 ### Main Game Interface
-![Main UI](images/ship_near_land.png)
+<img src="images/ship_near_land.png" width="600"/>
 
 ### Anne Bonny Encounter
-![Anne Bonny](images/anne_bonny.png)
+<img src="images/anne_bonny.png" width="600"/>
 
 ### Squawkles Commentary
-![Secret Island](images/squawkles.png)
+<img src="images/squawkles.png" width="600"/>
 
 ### Secret Island Discovery
-![Secret Island](images/treasure.png)
+<img src="images/treasure.png" width="600"/>
 
 ### End Voyage
-![End Screen](images/ship_at_dock.png)
+<img src="images/ship_at_dock.png" width="600"/>
